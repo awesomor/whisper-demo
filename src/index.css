@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --wave-color: #9ca3af;      /* gray-400 */
+  --progress-color: #3b82f6;  /* blue-500 */
+  --cursor-color: #111827;    /* gray-900 */
+}
